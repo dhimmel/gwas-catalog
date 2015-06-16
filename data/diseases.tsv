@@ -10,7 +10,7 @@ DOID:9835	refractive error	49	25	54	20
 DOID:10283	prostate cancer	44	159	76	14
 DOID:3393	coronary artery disease	40	38	43	19
 DOID:2531	hematologic cancer	36	26	56	26
-DOID:9744	type 1 diabetes mellitus	35	46	22	11
+DOID:9744	type 1 diabetes mellitus	35	47	22	10
 DOID:3312	bipolar disorder	30	42	152	110
 DOID:9074	systemic lupus erythematosus	28	19	42	15
 DOID:10652	Alzheimer's disease	27	20	140	37
@@ -38,9 +38,9 @@ DOID:14330	Parkinson's disease	10	20	29	18
 DOID:1909	melanoma	10	10	7	0
 DOID:12361	Graves' disease	10	8	1	1
 DOID:1686	glaucoma	10	6	7	0
+DOID:9296	cleft lip	10	4	11	7
 DOID:7147	ankylosing spondylitis	10	4	8	1
 DOID:11612	polycystic ovary syndrome	10	4	0	0
-DOID:9296	cleft lip	10	3	11	8
 DOID:2394	ovarian cancer	9	30	1	0
 DOID:4159	skin cancer	9	8	1	0
 DOID:332	amyotrophic lateral sclerosis	7	4	37	19
