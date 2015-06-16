@@ -118,3 +118,7 @@ target/
 vignettes/*.html
 vignettes/*.pdf
 
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
+
