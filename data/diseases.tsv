@@ -1,0 +1,98 @@
+doid_code	doid_name	HC-P	HC-S	LC-P	LC-S
+DOID:8778	Crohn's disease	91	126	11	12
+DOID:7148	rheumatoid arthritis	82	40	54	24
+DOID:5419	schizophrenia	81	234	91	42
+DOID:9352	type 2 diabetes mellitus	67	31	54	27
+DOID:1612	breast cancer	62	64	46	26
+DOID:8577	ulcerative colitis	54	88	11	5
+DOID:2377	multiple sclerosis	51	25	91	35
+DOID:9835	refractive error	49	25	54	20
+DOID:10283	prostate cancer	44	159	76	14
+DOID:3393	coronary artery disease	40	38	43	19
+DOID:2531	hematologic cancer	36	26	56	26
+DOID:9744	type 1 diabetes mellitus	35	46	22	11
+DOID:3312	bipolar disorder	30	42	152	110
+DOID:9074	systemic lupus erythematosus	28	19	42	15
+DOID:10652	Alzheimer's disease	27	20	140	37
+DOID:784	chronic kidney failure	24	36	22	28
+DOID:10608	celiac disease	23	32	22	30
+DOID:12306	vitiligo	21	27	8	0
+DOID:2841	asthma	20	10	50	15
+DOID:12236	primary biliary cirrhosis	19	14	2	2
+DOID:14221	metabolic syndrome X	19	12	13	7
+DOID:8893	psoriasis	17	11	9	6
+DOID:10871	age related macular degeneration	15	15	13	18
+DOID:5041	esophageal cancer	15	4	3	0
+DOID:9970	obesity	14	6	43	13
+DOID:10763	hypertension	13	3	31	13
+DOID:3083	chronic obstructive pulmonary disease	12	12	33	12
+DOID:1324	lung cancer	12	11	38	24
+DOID:1595	endogenous depression	12	5	132	90
+DOID:418	systemic scleroderma	12	3	13	5
+DOID:3310	atopic dermatitis	11	14	5	1
+DOID:11054	urinary bladder cancer	11	13	7	6
+DOID:6364	migraine	11	7	58	17
+DOID:1094	attention deficit hyperactivity disorder	11	5	137	51
+DOID:4481	allergic rhinitis	11	4	19	3
+DOID:14330	Parkinson's disease	10	20	29	18
+DOID:1909	melanoma	10	10	7	0
+DOID:12361	Graves' disease	10	8	1	1
+DOID:1686	glaucoma	10	6	7	0
+DOID:7147	ankylosing spondylitis	10	4	8	1
+DOID:11612	polycystic ovary syndrome	10	4	0	0
+DOID:9296	cleft lip	10	3	11	8
+DOID:2394	ovarian cancer	9	30	1	0
+DOID:4159	skin cancer	9	8	1	0
+DOID:332	amyotrophic lateral sclerosis	7	4	37	19
+DOID:1793	pancreatic cancer	7	3	27	8
+DOID:1024	leprosy	7	3	1	0
+DOID:5408	Paget's disease of bone	7	1	1	0
+DOID:1826	epilepsy syndrome	6	8	11	3
+DOID:0050741	alcohol dependence	6	7	65	36
+DOID:10534	stomach cancer	6	4	1	0
+DOID:10941	intracranial aneurysm	6	4	1	0
+DOID:263	kidney cancer	6	1	2	0
+DOID:13378	Kawasaki disease	5	5	11	2
+DOID:13241	Behcet's disease	5	4	1	0
+DOID:0050425	restless legs syndrome	5	3	0	0
+DOID:8398	osteoarthritis	5	2	6	3
+DOID:8986	narcolepsy	5	2	5	1
+DOID:1936	atherosclerosis	5	1	3	1
+DOID:1459	hypothyroidism	4	8	9	4
+DOID:1781	thyroid cancer	4	6	0	0
+DOID:2986	IgA glomerulonephritis	4	2	1	2
+DOID:1192	peripheral nervous system neoplasm	4	1	0	0
+DOID:9206	Barrett's esophagus	4	0	7	4
+DOID:14268	sclerosing cholangitis	4	0	0	0
+DOID:7693	abdominal aortic aneurysm	4	0	0	0
+DOID:986	alopecia areata	3	5	2	0
+DOID:585	nephrolithiasis	3	5	0	0
+DOID:14227	azoospermia	3	2	0	0
+DOID:11476	osteoporosis	3	1	8	0
+DOID:9008	psoriatic arthritis	3	1	0	0
+DOID:11949	Creutzfeldt-Jakob disease	3	0	2	2
+DOID:90	degenerative disc disease	2	3	7	3
+DOID:0050742	nicotine dependence	2	3	1	0
+DOID:13223	uterine fibroid	2	3	1	0
+DOID:0050156	idiopathic pulmonary fibrosis	2	3	0	0
+DOID:12365	malaria	2	2	7	4
+DOID:12995	conduct disorder	2	1	32	22
+DOID:13189	gout	2	0	1	2
+DOID:11714	gestational diabetes	2	0	1	0
+DOID:12930	dilated cardiomyopathy	2	0	0	0
+DOID:10976	membranous glomerulonephritis	1	3	0	0
+DOID:11119	Gilles de la Tourette syndrome	1	2	4	3
+DOID:12849	autistic disorder	1	1	10	5
+DOID:1312	focal segmental glomerulosclerosis	1	1	0	0
+DOID:4989	pancreatitis	1	1	0	0
+DOID:824	periodontitis	1	0	81	55
+DOID:363	uterine cancer	1	0	5	2
+DOID:3571	liver cancer	1	0	4	3
+DOID:2043	hepatitis B	1	0	1	0
+DOID:14004	thoracic aortic aneurysm	1	0	0	0
+DOID:216	dental caries	0	0	78	33
+DOID:594	panic disorder	0	0	10	5
+DOID:635	acquired immunodeficiency syndrome	0	0	9	3
+DOID:2355	anemia	0	0	3	1
+DOID:11555	Fuchs' endothelial dystrophy	0	0	2	0
+DOID:12185	otosclerosis	0	0	1	0
